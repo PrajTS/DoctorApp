@@ -1,0 +1,196 @@
+{
+  "project_info": {
+    "project_number": "892854254220",
+    "firebase_url": "https://helmetcontrol.firebaseio.com",
+    "project_id": "helmetcontrol",
+    "storage_bucket": "helmetcontrol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892854254220:android:1b19d9836c864993",
+        "android_client_info": {
+          "package_name": "com.example.doctorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892854254220-nbo9vjlrq5ofr184ne7j94t3g2897aem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctorapp",
+            "certificate_hash": "eee0eb10ea8391129017de75b0148727d6c98df1"
+          }
+        },
+        {
+          "client_id": "892854254220-lpea4vpa9pvmteebe43sba347g1snuvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5QQOuHSExwi4lHt8PXfhkAr6RQ_a6mTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892854254220-lpea4vpa9pvmteebe43sba347g1snuvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892854254220:android:b8ca55f238a29ba7",
+        "android_client_info": {
+          "package_name": "com.example.prajwal.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892854254220-as46v7clnu8ng5d6074nc9l6ee7t22n5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prajwal.maps",
+            "certificate_hash": "24628567123eba0bac5618a2c634c9a47a5054e9"
+          }
+        },
+        {
+          "client_id": "892854254220-lpea4vpa9pvmteebe43sba347g1snuvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5QQOuHSExwi4lHt8PXfhkAr6RQ_a6mTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892854254220-lpea4vpa9pvmteebe43sba347g1snuvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892854254220:android:c2c4eb12b6990b33",
+        "android_client_info": {
+          "package_name": "com.google.android.gms.location.sample.geofencing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892854254220-kus4n06j8uiaioob038mjm39k94436uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.android.gms.location.sample.geofencing",
+            "certificate_hash": "24628567123eba0bac5618a2c634c9a47a5054e9"
+          }
+        },
+        {
+          "client_id": "892854254220-lpea4vpa9pvmteebe43sba347g1snuvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5QQOuHSExwi4lHt8PXfhkAr6RQ_a6mTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892854254220-lpea4vpa9pvmteebe43sba347g1snuvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892854254220:android:443547f6b49094bd",
+        "android_client_info": {
+          "package_name": "com.smarthelm.prajwal.server"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892854254220-m0ui77kn4gsfd4vrb1j5a4h6haegc9gj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smarthelm.prajwal.server",
+            "certificate_hash": "24628567123eba0bac5618a2c634c9a47a5054e9"
+          }
+        },
+        {
+          "client_id": "892854254220-lpea4vpa9pvmteebe43sba347g1snuvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5QQOuHSExwi4lHt8PXfhkAr6RQ_a6mTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892854254220-lpea4vpa9pvmteebe43sba347g1snuvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892854254220:android:b8a987693e15f0bf",
+        "android_client_info": {
+          "package_name": "com.smarthelm.prajwal.smarthelmctrl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892854254220-o98j8qg83l7vdon51635n1rt836pc0v0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smarthelm.prajwal.smarthelmctrl",
+            "certificate_hash": "24628567123eba0bac5618a2c634c9a47a5054e9"
+          }
+        },
+        {
+          "client_id": "892854254220-lpea4vpa9pvmteebe43sba347g1snuvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5QQOuHSExwi4lHt8PXfhkAr6RQ_a6mTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892854254220-lpea4vpa9pvmteebe43sba347g1snuvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
